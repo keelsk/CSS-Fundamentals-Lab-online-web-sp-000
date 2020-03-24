@@ -32,7 +32,7 @@ p {
   width: 800px;
 }
 
-div#details {
+#details > div {
   display: block;
   float: left;
   background-color: red;
