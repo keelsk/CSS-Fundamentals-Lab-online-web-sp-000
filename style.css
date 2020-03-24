@@ -9,5 +9,6 @@ header {
 }
 
 img {
-  text-align: center;
+  display: block;
+  
 }
